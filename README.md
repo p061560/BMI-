@@ -1,18 +1,14 @@
 國立空中大學113上ZZZ002班 Python程式設計與實務應用 第10組報告檔案
 
 1.推薦使用桌面板Python 3.13運行，確保安裝時已將PATH  
-   【C:\Users\000\AppData\Local\Programs\Python\Python313\Scripts】
-    加入環境變數中。(必做)
-  2.使用本程式需要先行安裝matplotlib及openai，請先開啟CMD並輸入
-   【pip install --upgrade matplotlib】跟【pip install openai==0.28】執行
-    安裝。(必做)
-  3.程式可以升級，請打【python.exe -m pip install --upgrade pip】。
-    (可選)
-  4.推薦使用windows運行，linux、mac沒測試過。
-  5.如要使用AI建議功能，需申請openai api key，並將api key貼入程式
-    碼中，並請注意api key不要外洩。
-  6.打開【BMI圖表版.py】or【BMI圖表ai版.py】，即可開始使用。
-  7.依照指示輸入數字或Y/N即可。
+【C:\Users\000\AppData\Local\Programs\Python\Python313\Scripts】加入環境變數中。(必做)
+2.使用本程式需要先行安裝matplotlib及openai，請先開啟CMD並輸入
+【pip install --upgrade matplotlib】跟【pip install openai==0.28】執行安裝。(必做)
+3.程式可以升級，請打【python.exe -m pip install --upgrade pip】。(可選)
+4.推薦使用windows運行，linux、mac沒測試過。
+5.如要使用AI建議功能，需申請openai api key，並將api key貼入程式碼中，並請注意api key不要外洩。
+6.打開【BMI圖表版.py】or【BMI圖表ai版.py】，即可開始使用。
+7.依照指示輸入數字或Y/N即可。
   
 Q&A:	
 Q:有關我的BMI數據會上傳到雲端或被駭嗎?
